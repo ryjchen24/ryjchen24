@@ -14,10 +14,14 @@ I enjoy working with real-world datasets, building models from first principles,
 
 ## Technical Skills
 
-**Languages:** Python, R, JavaScript, SQL, HTML, CSS, Java  
+**Languages:** Python, R, JavaScript, SQL, HTML, CSS, Java 
+
 **ML / Data:** PyTorch, NumPy, Pandas, Tidyverse, Tidymodels
+
 **Visualization:** matplotlib, ggplot2, Shiny
+
 **Stack:** Node.js, Express.js, React+Vite, TailwindCSS, MongoDB
+
 **Tools:** Git/GitHub, RStudio
 
 ---
