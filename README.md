@@ -20,7 +20,7 @@ I enjoy working with real-world datasets, building models from first principles,
 
 **Visualization:** matplotlib, ggplot2, Shiny
 
-**Stack:** Node.js, Express.js, React+Vite, TailwindCSS, MongoDB
+**Stack:** Node.js, Express.js, React+Vite, MongoDB
 
 **Tools:** Git/GitHub, RStudio
 
