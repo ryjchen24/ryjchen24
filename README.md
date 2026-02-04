@@ -6,9 +6,9 @@ I enjoy working with real-world datasets, building models from first principles,
 ---
 
 ## What I’m Currently Working On
-- Implementing neural networks **from scratch** using NumPy to deeply understand backpropagation and optimization
-- Training **PyTorch-based models** on image datasets (MNIST, Fashion-MNIST) and comparing performance to custom implementations
-- Building and evaluating **machine learning models** on large-scale, real-world datasets
+- Learning natural language processing in PyTorch (currently using a recurrent neura network)
+- Finishing a text suggestion tool that predicts the most likely next word in a setence
+- Figuring out how to combine computer vision and nlp to translate french text into english via live webcam
 
 ---
 
@@ -27,8 +27,8 @@ I enjoy working with real-world datasets, building models from first principles,
 ---
 
 ## 📫 How to Reach Me
-- 📧 School Email: ryanjc4@uci.edu
 - 📧 Personal Email: ryanjchen24@gmail.com
+- 📧 School Email: ryanjc4@uci.edu
 - 💼 LinkedIn: [https://linkedin.com/in/ryan-chen-82921836a](https://www.linkedin.com/in/ryan-chen-82921836a/)  
 
 ---
