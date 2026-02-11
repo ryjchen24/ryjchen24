@@ -6,7 +6,7 @@ I enjoy working with real-world datasets, building models from first principles,
 ---
 
 ## What I’m Currently Working On
-- Learning natural language processing in PyTorch (currently using a recurrent neura network)
+- Learning natural language processing in PyTorch (currently using RNNs)
 - Finishing a text suggestion tool that predicts the most likely next word in a setence
 - Figuring out how to combine computer vision and nlp to translate french text into english via live webcam
 
