@@ -6,8 +6,8 @@ I enjoy working with real-world datasets, building models from first principles,
 ---
 
 ## What I’m Currently Working On
-- Learning natural language processing in PyTorch
-- Combining computer vision and nlp to translate non-english text into english via live webcam
+- Building a website that will use a trained GNN to analyze a given dataset
+- Improving my fullstack devlopment skills
 
 ---
 
