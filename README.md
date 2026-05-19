@@ -28,7 +28,7 @@ I enjoy working with real-world datasets, building models from first principles,
 ## 📫 How to Reach Me
 - 📧 Personal Email: ryanjchen24@gmail.com
 - 📧 School Email: ryanjc4@uci.edu
-- 💼 LinkedIn: [https://linkedin.com/in/ryan-chen-82921836a](https://www.linkedin.com/in/ryan-chen-82921836a/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/ryan-chen-324v/](https://www.linkedin.com/in/ryan-chen-324v/)  
 
 ---
 
