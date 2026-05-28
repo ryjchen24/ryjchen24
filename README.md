@@ -6,8 +6,9 @@ I enjoy working with real-world datasets, building models from first principles,
 ---
 
 ## What I’m Currently Working On
-- Building a website that will use a trained GNN to analyze a given dataset
-- Improving my fullstack devlopment skills
+- Building an LLM RAG system for a full stack web app
+- Creating an LTSM RNN layer for a PyTorch soccer simulation writeup
+- Improving my deep learning, CV, and NN skills
 
 ---
 
