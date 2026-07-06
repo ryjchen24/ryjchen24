@@ -8,7 +8,7 @@ I enjoy working with real-world datasets, building models from first principles,
 ## What I’m Currently Working On
 - Building an LLM Full Stack Web App
 - Improving my deep learning, CV, and NN skills
-- Building a Discord Bot that webscrapes in order to alert me to new internship opportunities as soon as possible!
+- Vibecoding a Discord Bot that webscrapes in order to alert me to new internship opportunities as soon as possible!
 
 ---
 
