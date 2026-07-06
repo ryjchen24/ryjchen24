@@ -6,9 +6,9 @@ I enjoy working with real-world datasets, building models from first principles,
 ---
 
 ## What I’m Currently Working On
-- Building an LLM RAG system for a full stack web app
+- Building an LLM Full Stack Web App
 - Improving my deep learning, CV, and NN skills
-- Studying for finals and preparing to lock in for the summer!
+- Building a Discord Bot that webscrapes in order to alert me to new internship opportunities as soon as possible!
 
 ---
 
